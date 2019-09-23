@@ -1,0 +1,176 @@
+@charset "UTF-8";
+
+header{
+    background-color: lightgray;
+    padding-bottom: 15em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+#body{
+padding-left: 5em;
+padding-right:5em;
+}
+#logo{
+    float: left;
+    padding-right: 13cm;
+}
+
+#first{
+    float:left;
+    padding-right: 5em; 
+
+}
+
+#shift{
+    padding-left: 5em;
+    padding-top: 5em;
+
+}
+
+#intro{
+    color: blue;
+}
+
+#download{
+    background-color:blue;
+    background-size: 160px 60px;
+    border-radius: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+ul li{
+    list-style: none;
+    display: inline;
+    font-size: 70%;
+    list-style: none;
+    font-size: 0.8em;
+    padding-left: 3em;
+    text-indent: 5cm;
+    
+}
+a{
+    color: black;
+}
+h2{
+    text-align:center;
+}
+
+main img{
+    float: right;
+}
+
+#About{
+    margin: 5em;
+    line-height: 1.8em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+#features{
+    padding-left: 8em;
+    padding-right: 8em;
+}
+#Testimonials{
+    background-color: darkblue;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 25em;
+}
+
+.testimonials{
+    color: #ffffff;
+}
+
+#img{
+    padding: 0.5em;
+    background-color: #ffffff;
+    text-align: center;
+    padding-left: 8em;
+    padding-right: 8em;
+}
+#email{
+    background-color: lightgray;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+#bottomlink{
+    word-spacing: 3em;
+    display: inline; 
+    font-size: 0.8em;
+}
+#mentme{
+padding-left: 3em;
+padding-right:3em;
+}
+
+#a, #b, #c, #d, #e, #f{
+    border: 1px solid;
+    width: 15%;
+    height: 5cm;
+    text-align: center;
+    padding-top: 3em;
+    border-color: white;
+}
+#a{
+    position: absolute;
+    top:1150px;
+    left: 250px;
+}
+#b{
+    position: absolute;
+    top:1150px;
+    left: 550px;
+}
+#c{
+    position: absolute;
+    top:1150px;
+    left: 850px;
+}
+#d{
+    position: absolute;
+    top:1400px;
+    left: 250px;
+}
+#e{
+    position: absolute;
+    top:1400px;
+    left: 550px;
+}
+#f{
+    position: absolute;
+    top:1400px;
+    left: 850px;
+}
+#A{
+    position: absolute;
+    top:1730px;
+    left: 250px;
+}
+#B{
+    position: absolute;
+    top:1730px;
+    left: 550px;
+}
+#C{
+    position: absolute;
+    top:1730px;
+    left: 850px;
+}
+#A, #B, #C{
+    border: 1px solid;
+    width: 15%;
+    height: 7cm;
+    text-align: center;
+    padding-top: 3em;
+    border-color: white;
+    background-color: #ffffff; 
+}
+ #a{
+     background-color: cornflowerblue;
+ }
+ #features{
+    padding-left: 5em;
+    padding-right:5em;
+    background-color: whitesmoke;
+    padding-bottom: 30em;
+ }
